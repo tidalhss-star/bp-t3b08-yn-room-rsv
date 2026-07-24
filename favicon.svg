@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity ed9286d01df4ba40</metadata>
-  <rect width="64" height="64" rx="9" fill="hsl(338 81% 29%)"/>
-  <path d="M25 0h39v64H11Z" fill="hsl(160 82% 72%)" opacity="0.82"/>
-  <g transform="rotate(78 32 32)" opacity="0.42"><rect x="16" y="16" width="32" height="32" rx="5" fill="none" stroke="#ffffff" stroke-width="7" transform="rotate(45 32 32)"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">YR</text>
+  <title>연남 룸싸롱 예약</title>
+  <rect width="64" height="64" rx="10" fill="hsl(338 46% 29%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(37 68% 64%)" opacity="0.16"/>
+  <g transform="rotate(180 32 32)"><circle cx="16" cy="16" r="5" fill="hsl(338 24% 96%)"/><circle cx="32" cy="16" r="5" fill="hsl(338 24% 96%)"/><circle cx="48" cy="16" r="5" fill="hsl(338 24% 96%)"/><circle cx="16" cy="32" r="5" fill="hsl(338 24% 96%)"/><circle cx="32" cy="32" r="6" fill="hsl(37 68% 64%)"/><circle cx="48" cy="32" r="5" fill="hsl(338 24% 96%)"/><circle cx="16" cy="48" r="5" fill="hsl(338 24% 96%)"/><circle cx="32" cy="48" r="5" fill="hsl(338 24% 96%)"/><circle cx="48" cy="48" r="5" fill="hsl(338 24% 96%)"/></g>
 </svg>
